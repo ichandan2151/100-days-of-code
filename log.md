@@ -8,13 +8,13 @@
 
 ### Day 1: August 30, 2022
 
-**Today's Progress**: Solved 2 problems on HackerRank
+**Today's Progress**: Solved 2 problems on HackerRank,Day 1 of 30 Days code challenge completed.
 
 **Thoughts:** Learning OOP and applying in hacker rank
 
 ### Day 2: August 31, 2022
 
-**Today's Progress**: Solved 2 problems on HackerRank
+**Today's Progress**: Solved problems on HackerRank,Day 2 of 30 Days code challenge completed.
 
 **Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
 
