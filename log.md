@@ -12,4 +12,11 @@
 
 **Thoughts:** Learning OOP and applying in hacker rank
 
+### Day 2: August 31, 2022
+
+**Today's Progress**: Solved 2 problems on HackerRank
+
+**Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
+
+
 
