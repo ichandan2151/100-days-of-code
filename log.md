@@ -20,7 +20,7 @@
 
 ### Day 3: September 1, 2022
 
-**Today's Progress**: Solved problems on HackerRank,Day 3 of 30 Days code challenge completed.
+**Today's Progress**: Solved 4 problems on HackerRank,Day 3 of 30 Days code challenge completed.
 
 **Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
 
