@@ -24,6 +24,11 @@
 
 **Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
 
+### Day 4: September 2, 2022
+
+**Today's Progress**: Solved 2 problems on HackerRank,Day 4 of 30 Days code challenge completed.
+
+**Thoughts:** Learning Data Structure and algorithm(ARRAYS) and applying in hacker rank
 
 
 
