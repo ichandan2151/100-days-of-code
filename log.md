@@ -30,5 +30,12 @@
 
 **Thoughts:** Learning Data Structure and algorithm(ARRAYS) and applying in hacker rank
 
+### Day 5: September 3, 2022
+
+**Today's Progress**: Solved problems on HackerRank.
+
+**Thoughts:** Preparing for accenture interview
+
+
 
 
