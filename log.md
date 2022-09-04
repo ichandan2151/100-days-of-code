@@ -8,31 +8,37 @@
 
 ### Day 1: August 30, 2022
 
-**Today's Progress**: Solved 2 problems on HackerRank,Day 1 of 30 Days code challenge completed.
+**Today's Progress**: Solved 2 problems on HackerRank,Day 0 of 30 Days code challenge completed.
 
 **Thoughts:** Learning OOP and applying in hacker rank
 
 ### Day 2: August 31, 2022
 
-**Today's Progress**: Solved problems on HackerRank,Day 2 of 30 Days code challenge completed.
+**Today's Progress**: Solved problems on HackerRank,Day 1 of 30 Days code challenge completed.
 
 **Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
 
 ### Day 3: September 1, 2022
 
-**Today's Progress**: Solved 4 problems on HackerRank,Day 3 of 30 Days code challenge completed.
+**Today's Progress**: Solved 4 problems on HackerRank,Day 2 of 30 Days code challenge completed.
 
 **Thoughts:** Learning Data Structure and algorithm and applying in hacker rank
 
 ### Day 4: September 2, 2022
 
-**Today's Progress**: Solved 2 problems on HackerRank,Day 4 of 30 Days code challenge completed.
+**Today's Progress**: Solved 2 problems on HackerRank,Day 3 of 30 Days code challenge completed.
 
 **Thoughts:** Learning Data Structure and algorithm(ARRAYS) and applying in hacker rank
 
 ### Day 5: September 3, 2022
 
 **Today's Progress**: Solved problems on HackerRank.
+
+**Thoughts:** Preparing for accenture interview
+
+### Day 6: September 4, 2022
+
+**Today's Progress**: Solved problems on HackerRank.,Day 5 of 30 Days code challenge completed.
 
 **Thoughts:** Preparing for accenture interview
 
