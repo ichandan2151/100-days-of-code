@@ -42,6 +42,12 @@
 
 **Thoughts:** Preparing for accenture interview
 
+### Day 7: September 5, 2022
+
+**Today's Progress**: Solved problems on HackerRank.
+
+**Thoughts:** Done with accenture , i might get into accenture
+
 
 
 
