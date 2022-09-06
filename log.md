@@ -48,6 +48,13 @@
 
 **Thoughts:** Done with accenture , i might get into accenture
 
+### Day 8: September 6, 2022
+
+**Today's Progress**: Solved problems on HackerRank.
+
+**Thoughts:** 
+
+
 
 
 
