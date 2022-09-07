@@ -54,6 +54,12 @@
 
 **Thoughts:** 
 
+### Day 9: September 7, 2022
+
+**Today's Progress**: Solved 5 problems on HackerRank.
+
+**Thoughts:** enjoying my progress
+
 
 
 
