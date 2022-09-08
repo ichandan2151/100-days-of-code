@@ -60,6 +60,14 @@
 
 **Thoughts:** enjoying my progress
 
+### Day 9: September 8, 2022
+
+**Today's Progress**: Made a model for heart disease prediction
+
+**Thoughts:** was fun with dataset
+
+**Link to work:** [Heart Disease](https://github.com/ichandan2151/Heart_Disease)
+
 
 
 
