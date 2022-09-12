@@ -70,11 +70,10 @@
 
 ### Day 10: September 12, 2022 [Extending 3 more days]
 
-**Today's Progress**: 
+**Today's Progress**: Started ibm cloub certification course and Python DSA continues
 
-**Thoughts:** 
+**Thoughts:** Took a break for 3 days and back on track to complete challenge
 
-**Link to work:** 
 
 
 
