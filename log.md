@@ -60,7 +60,7 @@
 
 **Thoughts:** enjoying my progress
 
-### Day 9: September 8, 2022
+### Day 10: September 8, 2022
 
 **Today's Progress**: Made a model for heart disease prediction
 
@@ -68,11 +68,17 @@
 
 **Link to work:** [Heart Disease](https://github.com/ichandan2151/Heart_Disease)
 
-### Day 10: September 12, 2022 [Extending 3 more days]
+### Day 11: September 12, 2022 [Extending 3 more days]
 
 **Today's Progress**: Started ibm cloub certification course and Python DSA continues
 
 **Thoughts:** Took a break for 3 days and back on track to complete challenge
+
+### Day 12: September 13, 2022
+
+**Today's Progress**: Solved 6 problems on HackerRank. Got level 2 badge on hacker rank
+
+**Thoughts:** enjoying my progress
 
 
 
