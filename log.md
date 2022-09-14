@@ -76,10 +76,15 @@
 
 ### Day 12: September 13, 2022
 
-**Today's Progress**: Solved 6 problems on HackerRank. Got level 2 badge on hacker rank
+**Today's Progress**: Solved 7 problems on HackerRank. Got level 2 badge on hacker rank
 
 **Thoughts:** enjoying my progress
 
+### Day 13: September 14, 2022
+
+**Today's Progress**: Solved 4 problems on HackerRank. Continuing cloud computing course
+
+**Thoughts:** enjoying my progress. Got reject at accenture.
 
 
 
