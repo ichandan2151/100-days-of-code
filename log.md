@@ -86,6 +86,13 @@
 
 **Thoughts:** enjoying my progress. Got reject at accenture.
 
+### Day 14: September 15, 2022
+
+**Today's Progress**: Completed intro to cloud computing course
+
+**Thoughts:** -_-
+
+
 
 
 
