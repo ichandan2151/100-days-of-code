@@ -92,6 +92,13 @@
 
 **Thoughts:** -_-
 
+### Day 15: September 16, 2022
+
+**Today's Progress**: HACKER RANK
+
+**Thoughts:** STRUGGLING WITH NESTED LIST
+
+
 
 
 
