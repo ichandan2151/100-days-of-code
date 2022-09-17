@@ -98,6 +98,12 @@
 
 **Thoughts:** STRUGGLING WITH NESTED LIST
 
+### Day 16: September 17, 2022
+
+**Today's Progress**: HACKER RANK and started edx course on Introduction to Cloud Development with HTML, CSS, and JavaScript
+
+**Thoughts:** STill struggling with nested list so will be starting data structures from bigining . Lets goooo
+
 
 
 
