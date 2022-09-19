@@ -104,6 +104,12 @@
 
 **Thoughts:** STill struggling with nested list so will be starting data structures from bigining . Lets goooo
 
+### Day 17: September 19, 2022 [Missed a day]
+
+**Today's Progress**: course on Introduction to Cloud Development with HTML, CSS, and JavaScript and learnt arrays stack and queue implemenattions 
+
+**Thoughts:** Enjoying learning data structures. Lets goooo
+
 
 
 
