@@ -116,6 +116,11 @@
 
 **Thoughts:** Enjoying learning data structures. Lets goooo
 
+### Day 19: September 22, 2022 
+
+**Today's Progress**: course on Introduction to Cloud Development with HTML, CSS, and JavaScript 
+
+**Thoughts:** Enjoying learning data structures
 
 
 
