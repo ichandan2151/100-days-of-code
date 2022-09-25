@@ -128,7 +128,7 @@
 
 **Thoughts:** Enjoying learning data structures
 
-### Day 21: September 25, 2022 
+### Day 21: September 25, 2022 [Missed a day]
 
 **Today's Progress**: Completed Data structures 
 
