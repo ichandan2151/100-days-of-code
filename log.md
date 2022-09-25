@@ -128,6 +128,12 @@
 
 **Thoughts:** Enjoying learning data structures
 
+### Day 21: September 25, 2022 
+
+**Today's Progress**: Completed Data structures 
+
+**Thoughts:** ig i am done with dsa , will continue hacker and cloud computing course
+
 
 
 
