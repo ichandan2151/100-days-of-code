@@ -134,6 +134,12 @@
 
 **Thoughts:** ig i am done with dsa , will continue hacker and cloud computing course
 
+### Day 21: September 26, 2022 
+
+**Today's Progress**: Started OOPS and Django framework
+
+**Thoughts:** need to work even more hard
+
 
 
 
