@@ -146,6 +146,12 @@
 
 **Thoughts:** need to work even more hard
 
+### Day 23: October 8, 2022 
+
+**Today's Progress**: OOPS and Sql theory 
+
+**Thoughts:** back to challenge, Lets go
+
 
 
 
