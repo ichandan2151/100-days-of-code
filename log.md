@@ -152,6 +152,12 @@
 
 **Thoughts:** back to challenge, Lets go
 
+### Day 25: November 4, 2022 
+
+**Today's Progress**: HTML, completed 1st webdesign on freecodecamp.org
+
+**Thoughts:** back to square 1
+
 
 
 
